@@ -1,7 +1,7 @@
 # Hola! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 ### About Me:- 
-I'm a 3rd year UG student at Institute of Radio Physics and Electronics (IRPE), [University of Calcutta, Kolkata](https://www.caluniv.ac.in). My research interests revolve around various interdisciplinary areas within computer science, with a particular focus on Machine Learning and Artificial Intelligence, Human Computer Interactions (HCI), Computer Vision and Image/Video Processing . I am deeply fascinated by the potential of these fields to shape the future of technology and transform the way we interact with machines and information.
+I'm a final year UG student at Institute of Radio Physics and Electronics (IRPE), [University of Calcutta, Kolkata](https://www.caluniv.ac.in). My research interests revolve around various interdisciplinary areas within computer science, with a particular focus on Machine Learning and Artificial Intelligence, Human Computer Interactions (HCI), Computer Vision and Image/Video Processing . I am deeply fascinated by the potential of these fields to shape the future of technology and transform the way we interact with machines and information.
 
 
 ⚡ Checkout my [website](https://sagnikde03.github.io)!
